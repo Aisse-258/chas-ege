@@ -17,6 +17,6 @@
 		}
 	chas2.task.setTask({
 		text: 'Найдите значение выражения $$\\sqrt{'+f+'^{2}'+d+g+'{^2}}$$',
-		answers: ''+h,
+		answers: h,
 	});
 })();
